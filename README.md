@@ -1,7 +1,7 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-https://img.shields.io/github/followers/mdmridul6?style=social
+[![Twitter Follow](https://img.shields.io/github/followers/mdmridul6?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -75,7 +75,7 @@ https://img.shields.io/github/followers/mdmridul6?style=social
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
 2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
