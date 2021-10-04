@@ -1,7 +1,7 @@
 ### Hi there, I'm Mridul 👋
 
 [![Website](https://img.shields.io/website?label=Imridul.com&style=for-the-badge&url=https%3A%2F%2FImridul.com)](https://Imridul.com)
-[![Github](https://img.shields.io/github/followers/mdmridul6?color=green&logo=github&logoColor=white&style=for-the-badge)]
+[Github](https://img.shields.io/github/followers/mdmridul6?color=green&logo=github&logoColor=white&style=for-the-badge)
 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
